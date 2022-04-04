@@ -5,3 +5,5 @@ Later on, some other libraries and languages will be included.
 There is a metric on each folder. First one is Degree of Centrality
 Each metrics has its code, some example.
 Gradually I will upload the data and other things relevant.
+
+<img src="/figs/03 meanCd_Lima.gif" alt="meanCd_Lima" width="100%"/>
