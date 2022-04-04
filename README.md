@@ -1,2 +1,3 @@
-# Degree_of_Centrality_OSM_networks
-A routine based on qgis processing to calculate the Degree of Centrality (Cd) of urban networks from OSM data.
+# Centrality Metrics based on OSM networks
+This is a working progress of centrality metrics calculated from OSM data.
+First metrics is Degree of Centrality
