@@ -93,3 +93,8 @@ The last one is the Eigenvalue centrality.
 Which will be the last centrality measure on this repository.
 However, since there are two other alike measures, next time will be convenient to cover Eigenvalue, PageRank and Katz centrality.
 Those three has the same purpose both different calculation.
+
+## Pending issues
+- Bibliography
+- History of development of Network Metrics (aka Fredman, Social Sciences, etc).
+- Next steps: correlation between metrics, real time measurement, mobile data, large scale measurement (i.e country level)
