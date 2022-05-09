@@ -86,7 +86,7 @@ So that it is the only one up until know that requires some programming skills.
 It also requires heavy computational power.
 That is why, it depends on the Brandes Algorithm for an efficient calculus. That is also why it is hard to reproduce manually in a GIU environment. Which is not the case for Cc or Cd metrics.
 
-# More on centrality measures.
+# More on centrality measures
 With easy access to metrics on programming environments it is easy to calculate several other metrics of centrality.
 There are four main centrality metrics, 3 of them has been covered.
 The last one is the Eigenvalue centrality.
