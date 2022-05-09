@@ -75,7 +75,7 @@ That were opportunity is for planning.
 Since Cb offers knowledge to capitalize on the implicit tendency of the network structure.
 Which might be convenient or not depending on the case.
 
-# About the calculus
+# About processing
 Both Cd and Cc metrics were made exclusively with Python Qgis algorithms and the GrassGis library for network analysis.
 Raster creation was made with the GDAL library which is quite easy to understand.
 Both are also quite fast.
