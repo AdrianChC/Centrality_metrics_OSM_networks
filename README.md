@@ -75,3 +75,21 @@ That were opportunity is for planning.
 Since Cb offers knowledge to capitalize on the implicit tendency of the network structure.
 Which might be convenient or not depending on the case.
 
+# About the calculus
+Both Cd and Cc metrics were made exclusively with Python Qgis algorithms and the GrassGis library for network analysis.
+Raster creation was made with the GDAL library which is quite easy to understand.
+Both are also quite fast.
+However Cb was calculated with R libraries based on igraph.
+That was necessary since the GrassGis algorithm produced unreliable results.
+Which scores didn’t match with any theory of Betweenness centrality.
+So that it is the only one up until know that requires some programming skills.
+It also requires heavy computational power.
+That is why, it depends on the Brandes Algorithm for an efficient calculus. That is also why it is hard to reproduce manually in a GIU environment. Which is not the case for Cc or Cd metrics.
+
+# More on centrality measures.
+With easy access to metrics on programming environments it is easy to calculate several other metrics of centrality.
+There are four main centrality metrics, 3 of them has been covered.
+The last one is the Eigenvalue centrality.
+Which will be the last centrality measure on this repository.
+However, since there are two other alike measures, next time will be convenient to cover Eigenvalue, PageRank and Katz centrality.
+Those three has the same purpose both different calculation.
