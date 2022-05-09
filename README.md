@@ -44,3 +44,34 @@ Of course, a trip of 19 km seems extremely long but in the scale of a city as bi
 
 <img src="/Closeness centrality/figs/01 meanCc_Lima.png" alt="meanCc_Lima" width="50%"/>
 
+# Betweenness Centrality
+It is a measure of centrality based on participation of each part on the whole.
+That is, roughly speaking, the more a node participates on the shortest path between any pair of nodes the more its betweenness centrality.
+This metric is different than those two previously review.
+This is different because it is not a local value like Degree of Centrality nor a statistical value derived from the shortest paths.
+This is a value that is related to the structure of the network. Because it builds in its relevancy among others places. So it is a global value.
+Because the value of a node is related to the value of other nodes.
+That is also the reason why high ranked values form a chain of edges. Which is not the case for Cd or Cc metrics.
+The distribution of scores seems to be exponential distribution regards of the network.
+That is the case of Bhopal (IN) where the highly valuable nodes are arranged in a radial way mostly.
+
+<img src="/Betweenness centrality/figs/01 Cb_Bhopal.png" alt="Cb_Bhopal" width="50%"/>
+
+That is also the case of Lima (PE) which is a network 3 times bigger than Bhopal (IN).
+
+<img src="/Betweenness centrality/figs/04 Cb_Lima.png" alt="Cb_Lima" width="50%"/>
+
+It is evident that their ranges are different but the arrangement is different.
+In the case of Bhopal (IN) the highest valuable nodes are the 3% of the network while the same class in Lima (PE) are just 1% of its whole network.
+Because Cb shows the opportunity of location and shows a hierarchy passed between edges, it is comparable to the network coding from its urban planning.
+Traditional planning classify networks in primary, secondary, tertiary and others.
+Comparison between this two are relevant to further understand and manage transport.
+
+<img src="/Betweenness centrality/figs/06 Lima_comparisson.gif" alt="Comparisson_Lima" width="50%"/>
+
+Part of the Cb scores comes from planning itself and the several projects of urban expansion.
+However, as cities grows and its network densify, unexpected relevancies appears.
+That were opportunity is for planning.
+Since Cb offers knowledge to capitalize on the implicit tendency of the network structure.
+Which might be convenient or not depending on the case.
+
